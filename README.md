@@ -78,14 +78,19 @@ while not cycle_end: # Main cycle
 {
   "greeting": ["Hi", "Hello", "Hey there"],
   "greeting_responses": ["Hello!", "Hi, how can I help?", "Hey! What's up?"],
+
   "farewell": ["Goodbye", "See you", "Ciao"],
   "farewell_responses": ["Goodbye!", "See you soon!", "Take care!"],
+
   "how_are_you": ["How are you?", "How's it going?", "What's up?"],
   "how_are_you_responses": ["I'm good, thank you!", "I'm doing well. How about you?", "Not much, what about you?"],
+
   "compliment": ["You're great!", "You're amazing!", "You're awesome!"],
   "compliment_responses": ["Thank you! You're pretty awesome too.", "Thanks! You're great as well!", "Thanks! That means a lot."],
+
   "name": ["What's your name?", "Who are you?", "Tell me your name."],
   "name_responses": ["I'm Neuralite, your AI assistant.", "Call me Neuralite.", "I'm Neuralite! Nice to meet you."],
+
   "jokes": ["Tell me a joke.", "Do you know any jokes?", "Make me laugh."],
   "jokes_responses": ["Why did the scarecrow win an award? Because he was outstanding in his field!", "I told my computer I needed a break. Now it won't stop sending me Kit-Kats.", "Why did the math book look sad? Because it had too many problems."]
 }
