@@ -39,8 +39,8 @@ Train your AI model with a customizable number of epochs. The higher the epochs,
 ```python
 from neuralite.interpreter import ai # Imports framework
 
-# Initialize the AI model with 200 epochs
-assistant = ai('dataset.json', epochs=200)
+# Initialize the AI model with 100 epochs
+assistant = ai('dataset.json', epochs=100)
 
 # Continue with your chatbot as usual
 ```
