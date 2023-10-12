@@ -14,7 +14,7 @@ Build, deploy, and scale your AI projects with Neuralite! Whether you're a seaso
 ## Getting Started 🚀
 To get started, install Neuralite with pip:
 ```bash
-pip install Neuralite
+pip install neuralite
 ```
 
 ## Basic Chatbot 🤖
